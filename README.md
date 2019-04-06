@@ -3,6 +3,7 @@ UnknownDomainGame游戏资产仓库。
 
 - textures: 所有纹理资源所在的文件夹
 - textures/blocks: 所有方块纹理资源所在的文件夹
+- textures/items: 所有物品纹理资源所在的文件夹
 
 ## 版权声明
 (c) UnknownDomainGame 2018-2019
