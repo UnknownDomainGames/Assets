@@ -11,6 +11,6 @@ UnknownDomainGame游戏资产仓库。
 各美术的文件夹会储存各美术的创作作品。
 
 ## 版权声明
-(c) UnknownDomainGame 2018-2019
+(c) UnknownDomainGame 2018-2019 All rights reserved.
 
-所有资源未经许可禁止使用，最终解释权归未知之域开发团队所有。
+所有资源除特别声明未经许可禁止使用，最终解释权归未知之域开发团队所有。
